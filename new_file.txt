@@ -1,0 +1,1 @@
+Doing this second test by following Prof David's Zoom Instructions since the first rep I created was using VS Code and not Terminal , as per TA's instructions. This one I am purely following Prof. David's zoom instructions and using Terminal instead of VS code to try this process out as well.
